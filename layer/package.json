@@ -1,0 +1,9 @@
+{
+  "name": "layer",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@nuxtjs/i18n": "8.0.0-beta.13",
+    "vue-i18n": "9.3.0-beta.21"
+  }
+}
