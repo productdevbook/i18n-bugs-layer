@@ -1,5 +1,10 @@
+<script setup lang="ts">
+
+const {t} = useI18n()
+</script>
+
 <template>
   <div>
-    <NuxtWelcome />
+    {{ t('hello') }}
   </div>
 </template>
